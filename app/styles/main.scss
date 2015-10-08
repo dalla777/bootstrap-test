@@ -1,5 +1,7 @@
 $icon-font-path: '../fonts/';
 
+@import "variables";
+
 // bower:scss
 @import "bower_components/bootstrap-sass/assets/stylesheets/_bootstrap.scss";
 // endbower
@@ -97,3 +99,4 @@ body {
 .form-inline .form-control-sm {
   width: 50%;
 }
+

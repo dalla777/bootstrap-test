@@ -99,4 +99,7 @@ body {
 .form-inline .form-control-sm {
   width: 50%;
 }
+label {
+  @extend .text-uppercase;
+}
 
